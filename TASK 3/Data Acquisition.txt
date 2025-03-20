@@ -1,0 +1,7 @@
+Data Acquisition:
+
+>> Assume we have a large CSV file (e.g., large_sales_data.csv).
+>> In Power BI Desktop, click "Get Data" and select "Text/CSV."
+Browse to the file and import it.
+>> If the data is in a database, select the appropriate database connector (e.g., SQL Server, Azure SQL),
+>> If the data is in a cloud storage system, select the correct cloud connector (e.g. Azure Blob Storage, AWS S3).

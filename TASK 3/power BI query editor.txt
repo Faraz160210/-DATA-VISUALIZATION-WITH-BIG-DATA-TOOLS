@@ -1,0 +1,64 @@
+Click "Transform Data" to open the Power Query Editor.
+
+Clean the data:
+
+Remove unnecessary columns.
+
+Handle missing values (replace, remove).
+
+Correct data types (e.g., text to date, text to number).
+
+Filter out irrelevant data.
+
+Split columns if neccessary.
+
+Create calculated columns (if needed):
+
+For example, calculate profit (revenue - cost).
+
+Calculate a date based on other date fields.
+
+Group and aggregate data (if needed):
+
+Group sales by region and calculate total sales.
+
+Group website traffic by day and calculate unique visitors.
+
+Click "Close & Apply" to load the transformed data into the data model.
+
+Data Modeling (Relationships):
+
+
+
+If you have multiple tables, create relationships between them based on common columns.
+
+This allows you to combine data from different tables in your visualizations.
+
+Visualization Creation (Report View):
+
+
+
+Drag and drop fields from the "Fields" pane onto the report canvas to create visualizations.
+
+Examples:
+
+Sales by region: Create a map or a bar chart.
+
+Sales over time: Create a line chart.
+
+Top-selling products: Create a bar chart or a table.
+
+Customer demographics: Create a pie chart or a stacked bar chart.
+
+Key performance indicators (KPIs): Create cards to display total sales, average order value, etc.
+
+Use slicers and filters to interactively explore the data.
+
+Create interactive dashboards by combining multiple visualizations on a single page.
+
+Use tooltips to provide more context when hovering over data points.
+
+
+
+
+Use conditional formatting to highlight important data points.

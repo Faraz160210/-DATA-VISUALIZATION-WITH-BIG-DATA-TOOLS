@@ -1,0 +1,19 @@
+Drag and drop fields from the "Fields" pane onto the report canvas to create visualizations.
+Examples:
+Sales by region: Create a map or a bar chart.
+
+Sales over time: Create a line chart.
+
+Top-selling products: Create a bar chart or a table.
+
+Customer demographics: Create a pie chart or a stacked bar chart.
+
+Key performance indicators (KPIs): Create cards to display total sales, average order value, etc.
+
+Use slicers and filters to interactively explore the data.
+
+Create interactive dashboards by combining multiple visualizations on a single page.
+
+Use tooltips to provide more context when hovering over data points.
+
+Use conditional formatting to highlight important data points.
